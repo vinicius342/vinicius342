@@ -11,6 +11,3 @@ Desenvolvedor de Software | Python • React • Firebase
 - JavaScript
 - Git
 - Linux
-
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/vinicius-chagas-357457382/)
