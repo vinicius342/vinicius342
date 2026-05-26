@@ -1,16 +1,18 @@
-## Hi there 👋
+# Vinicius Chagas Alves
 
-<!--
-**vinicius342/vinicius342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software | Python • React • Firebase 
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em início de carreira com experiência prática em sistemas web utilizando React e Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente atuando no desenvolvimento do sistema educacional MobClass.
+
+## Tecnologias
+- React
+- Firebase
+- Python
+- JavaScript
+- Git
+- Linux
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/vinicius-chagas-357457382/)
